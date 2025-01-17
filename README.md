@@ -1,5 +1,5 @@
 # Video Tracking and Cropping Script
-![Tracking Video Demo](https://res.cloudinary.com/dwfdyavop/video/upload/v1737125905/marvel_asemble_xrdwgy.mp4)
+![Video Tracking GIF](https://res.cloudinary.com/dwfdyavop/image/upload/v1737126201/ezgif.com-video-to-gif-converter_mfrcf5.gif)
 This project is a Python script that uses OpenCV to track a region of interest (ROI) in a video, crop the tracked region frame-by-frame, and save both the cropped images and the annotated video output. It also supports selecting the initial ROI interactively.
 
 ## Features
